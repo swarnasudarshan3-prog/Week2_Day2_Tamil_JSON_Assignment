@@ -1,0 +1,38 @@
+{
+  "subject": "Tamil woman in a deep maroon and indigo Kanchipuram silk sari with gold zari border, jasmine flowers in her hair, carefully drawing a white rice-flour pulli kolam; a brass bowl of rice flour nearby",
+  "setting": {
+    "place": "An interior courtyard of a Chettinad heritage house in Karaikudi, Sivaganga district, Tamil Nadu",
+    "era": "Present-day Margazhi season in a house with early-20th-century Chettinad architecture",
+    "festival": "Margazhi kolam tradition",
+    "time_of_day": "early dawn before sunrise",
+    "architecture": "carved wooden pillars, Athangudi patterned tiles, timber beams, shaded thinnai and traditional brass lamps"
+  },
+  "lighting": "cool soft blue dawn light blending with warm brass-lamp glow; realistic shadows",
+  "camera": {
+    "shot": "close-up of the hand drawing rice-flour kolam on Athangudi floor tiles",
+    "lens": "35mm",
+    "angle": "eye-level three-quarter view across the courtyard"
+  },
+  "palette": [
+    "indigo",
+    "maroon",
+    "terracotta",
+    "warm brass",
+    "rice-flour white"
+  ],
+  "style": "photorealistic cinematic documentary photograph, culturally specific, natural facial features and textiles, credible domestic scene",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "generic palace architecture",
+    "North Indian bridal clothing",
+    "fantasy temples",
+    "plastic-looking skin",
+    "anachronistic neon signs",
+    "floating kolam powder",
+    "readable lettering",
+    "watermarks",
+    "crowded tourist postcard framing",
+    "extra fingers",
+    "distorted hands"
+  ]
+}
